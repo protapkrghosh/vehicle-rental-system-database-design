@@ -29,8 +29,9 @@ This table stores all the users information.
 - User ID (Primary Key)
 - Name
 - Email (Unique)
+- Password
 - Phone number
-- Role (Customer / Admin)
+- Role (Admin / Customer)
 
 
 ### Vehicles Table
